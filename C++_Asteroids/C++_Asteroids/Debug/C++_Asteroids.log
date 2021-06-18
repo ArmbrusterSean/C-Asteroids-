@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(127,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(140,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(152,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(152,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(157,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(267,85): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(267,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(266,93): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(266,49): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(291,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(291,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(292,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\C++_Asteroids\C++_Asteroids\Source.cpp(292,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  C++_Asteroids.vcxproj -> C:\Users\ACER\source\repos\C++_Asteroids\Debug\C++_Asteroids.exe
